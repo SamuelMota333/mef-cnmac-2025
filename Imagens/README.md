@@ -1,0 +1,1 @@
+Gif da solução numérica em todos os instantes de tempo discretizado.
